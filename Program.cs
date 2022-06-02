@@ -101,14 +101,13 @@ namespace Permutation
             int first, second, third;
             foreach (var list in lists)
             {
-                //On first and last place there can't be number 1
+                //On first and last place there can't be number 1 and if both first numbers are odd then all the others have to be odd
                 bool cond1 = list[0] != 1 && list[8] != 1;
                 bool cond2 = list[0] % 2 != 0 && list[1] % 2 != 0;
                 bool cond3 = list[5] % 2 != 0;
                 bool cond4 = list[7] % 2 != 0 || list[1] % 2 != 8;
                 if (list[0] != 1 && list[8] != 1)
                 {
-                    //If first or second number is even, then first result also has to 
                     if (!(cond2 || cond3 || cond4))
                     {
                         continue;
