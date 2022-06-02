@@ -1,0 +1,8 @@
+D:\Projekty\tester na programistę\Nauka\Permutation\bin\Debug\Permutation.exe.config
+D:\Projekty\tester na programistę\Nauka\Permutation\bin\Debug\Permutation.exe
+D:\Projekty\tester na programistę\Nauka\Permutation\bin\Debug\Permutation.pdb
+D:\Projekty\tester na programistę\Nauka\Permutation\obj\Debug\Permutation.csproj.AssemblyReference.cache
+D:\Projekty\tester na programistę\Nauka\Permutation\obj\Debug\Permutation.csproj.SuggestedBindingRedirects.cache
+D:\Projekty\tester na programistę\Nauka\Permutation\obj\Debug\Permutation.csproj.CoreCompileInputs.cache
+D:\Projekty\tester na programistę\Nauka\Permutation\obj\Debug\Permutation.exe
+D:\Projekty\tester na programistę\Nauka\Permutation\obj\Debug\Permutation.pdb
